@@ -1,3 +1,5 @@
+AllCops:
+  DisabledByDefault: true
 
 Security/JSONLoad:
   Enabled: true
