@@ -1,0 +1,17 @@
+AllCops:
+  DisplayCopNames: true
+  Exclude:
+    - 'db/**/*'
+    - 'client/node_modules/**/*'
+
+#################### Lint ################################
+
+Security/JSONLoad:
+  Enabled: true
+
+Layout/AccessModifierIndentation:
+  Enabled: true
+
+Layout/ArgumentAlignment:
+  Enabled: false
+
