@@ -4,6 +4,9 @@ AllCops:
 Security/JSONLoad:
   Enabled: true
 
+Security/Eval:
+  Enabled: true
+
 Layout/AccessModifierIndentation:
   Enabled: true
 
