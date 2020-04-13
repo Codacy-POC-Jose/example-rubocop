@@ -8,6 +8,7 @@ describe MyClass do
     end
 end
 
+
 ## next lines should trigger a performance issue
 ## if rubocop-performance was required
 ## (on config file or command line param --require)
