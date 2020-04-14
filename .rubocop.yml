@@ -14,7 +14,7 @@ RSpec/FilePath:
 
 RSpec/AlignLeftLetBrace:
   Description: Checks that left braces for adjacent single line lets are aligned.
-  Enabled: true
+  Enabled: false
   StyleGuide: https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/AlignLeftLetBrace
 
 RSpec/EmptyLineAfterFinalLet:
